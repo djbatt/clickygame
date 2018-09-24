@@ -10,3 +10,8 @@
 .nav-wrapper {
   background-color: #0f6ea5
 }
+
+.card {
+  width: 250px;
+  height: 250px;
+}

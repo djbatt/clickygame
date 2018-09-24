@@ -6,8 +6,8 @@ export default class Container extends Component {
     return (
       <div>
         <Scorebar/>
-        <div className='container'>
-            <h2 className='center-align'>Click and image to start</h2>
+        <div className='center-align container'>
+            <h3 className='Header'>Click and image to start</h3>
         </div>
       </div>
     )
